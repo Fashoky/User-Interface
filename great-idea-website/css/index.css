@@ -151,6 +151,15 @@ h5 {
 
 /* Your code starts here! */
 
-.navigation {
-  color: red;
+.navigation h1 {
+  color: blue;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.logo {
+  text-align: right;
+}
+
+top-content {
 }
